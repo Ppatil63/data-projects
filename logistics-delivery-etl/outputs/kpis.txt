@@ -1,0 +1,30 @@
+Shipments: 2,500 | delivered: 2,294 | total shipping cost: $129,545.42
+
+Overall on-time: 69.49% | avg delay: 0.35 days
+
+Late shipments: 700 costing $31,929.77 (avg $45.61 each, avg delay 2.03 days)
+
+By carrier:
+           carrier  shipments  on_time_pct  avg_delay  cost_per_kg
+         SwiftLine        781         85.4      -0.17         2.88
+National Parcel Co        498         74.8       0.20         2.57
+      Apex Freight        693         68.0       0.36         2.38
+BlueRail Logistics        528         42.9       1.25         1.81
+
+By destination zone:
+         zone  shipments  on_time_pct  avg_delay
+South Central        400         67.2       0.44
+    Southwest        432         67.5       0.38
+    Northeast        390         68.8       0.31
+    Southeast        400         70.4       0.36
+    Northwest        432         70.6       0.34
+      Midwest        446         72.0       0.28
+
+Monthly on-time:
+  month  on_time_pct  shipments
+2026-04         68.2        355
+2026-05         66.8        367
+2026-06         69.4        372
+2026-07         75.8        450
+2026-08         69.9        386
+2026-09         65.4        364
