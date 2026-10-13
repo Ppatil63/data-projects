@@ -1,0 +1,42 @@
+Total tickets: 3,000 | resolved: 2,622 | open: 378
+
+Overall SLA breach rate (resolved tickets): 26.96%
+
+Overall reopen rate: 7.80%
+
+By priority:
+priority  tickets  avg_hours  breach_pct
+      P1      144        4.7        41.1
+      P2      616       10.9        42.8
+      P3     1501       18.4        28.1
+      P4      739       26.9         8.8
+
+By category:
+         category  tickets  breach_pct  avg_hours
+   Password Reset      496         0.0        0.8
+   Access / Login      482         0.0        3.3
+     Software Bug      435        70.7       42.1
+Integration / API      350        69.9       41.6
+       Data Issue      347        26.6       18.7
+         Hardware      291        27.8       19.7
+          Network      247         4.5        9.5
+      Performance      198        41.8       28.5
+ How-To / Request      154         0.0        2.1
+
+By assignment group:
+assignment_group  tickets  breach_pct
+  App Support L2     1330        54.5
+ Service Desk L1     1423         5.7
+  Infrastructure      247         4.5
+
+Open backlog aging:
+   bucket  tickets
+ 0-3 days        8
+ 15+ days      328
+ 4-7 days       14
+8-14 days       28
+
+Resolution by creation period:
+ period  avg_hours
+Fri-Sun       22.8
+Mon-Thu       14.8
