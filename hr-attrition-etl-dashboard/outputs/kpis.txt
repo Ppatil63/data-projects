@@ -1,0 +1,48 @@
+Employees: 1,470 | leavers: 237 | overall attrition: 16.12%
+
+Avg monthly income — leavers: $4,787 vs stayers: $6,833
+
+By department:
+            department   n  attrition_pct
+                 Sales 446           20.6
+       Human Resources  63           19.0
+Research & Development 961           13.8
+
+Overtime effect:
+over_time    n  attrition_pct
+      Yes  416           30.5
+       No 1054           10.4
+
+Tenure bands:
+    band   n  attrition_pct
+   0 yrs  44           36.4
+ 1-2 yrs 298           28.9
+ 3-5 yrs 434           13.8
+6-10 yrs 448           12.3
+ 10+ yrs 246            8.1
+
+Income bands:
+     band   n  attrition_pct  avg_income
+Under $3k 395           28.6      2394.0
+   $3k-5k 354           14.1      4077.0
+  $5k-10k 440           11.1      6828.0
+    $10k+ 281            8.9     14826.0
+
+By job role:
+                 job_role   n  attrition_pct
+     Sales Representative  83           39.8
+    Laboratory Technician 259           23.9
+          Human Resources  52           23.1
+          Sales Executive 326           17.5
+       Research Scientist 292           16.1
+   Manufacturing Director 145            6.9
+Healthcare Representative 131            6.9
+                  Manager 102            4.9
+        Research Director  80            2.5
+
+Job satisfaction vs attrition:
+ job_satisfaction  attrition_pct
+                1           22.8
+                2           16.4
+                3           16.5
+                4           11.3
