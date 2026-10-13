@@ -1,0 +1,54 @@
+Total sales: $2,297,200.86
+
+Total profit: $286,397.02
+
+Overall margin: 12.47%
+
+Fact rows: 9,994 | distinct orders: 5,009
+
+Sales by category:
+       category       sales      profit
+     Technology 836154.0330 145454.9481
+      Furniture 741999.7953  18451.2728
+Office Supplies 719047.0320 122490.8008
+
+Profit by region:
+ region       sales      profit
+   West 725457.8245 108418.4489
+   East 678781.2400  91522.7800
+  South 391721.9050  46749.4303
+Central 501239.8908  39706.3625
+
+By year:
+ year       sales     profit
+ 2014 484247.4981 49543.9741
+ 2015 470532.5090 61618.6037
+ 2016 609205.5980 81795.1743
+ 2017 733215.2552 93439.2696
+
+Furniture margin: 2.49% | Technology margin: 17.40%
+
+Top 5 products by profit:
+                                                               product_name     profit     sales
+                                      Canon imageCLASS 2200 Advanced Copier 25199.9280 61599.824
+Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind  7753.0390 27453.384
+                                       Hewlett Packard LaserJet 3310 Copier  6983.8836 18839.686
+                                         Canon PC1060 Personal Laser Copier  4570.9347 11619.834
+                                  Logitech G19 Programmable Gaming Keyboard  4425.3432 13756.536
+
+Bottom 5 products by profit:
+                                            product_name     profit
+               Cubify CubeX 3D Printer Double Head Print -8879.9704
+               Lexmark MX611dhe Monochrome Laser Printer -4589.9730
+               Cubify CubeX 3D Printer Triple Head Print -3839.9904
+Chromcraft Bull-Nose Wood Oval Conference Tables & Bases -2876.1156
+    Bush Advantage Collection Racetrack Conference Table -1934.3976
+
+Discount buckets:
+     bucket  lines  avg_profit
+      1-20%   3803       26.50
+     21-40%    460      -77.86
+No discount   4798       66.90
+   Over 40%    933     -106.71
+
+Peak month: {'year': 2017.0, 'month': 11.0, 'sales': 118447.825}
