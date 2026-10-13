@@ -1,0 +1,15 @@
+Latest closes:
+ticker       date  latest_close
+  AAPL 2026-10-13        341.27
+  AMZN 2026-10-13        258.58
+  GOOG 2026-10-13        349.52
+  MSFT 2026-10-13        543.45
+  NVDA 2026-10-13        228.52
+
+Per-ticker stats:
+ticker  start_close  latest_close  period_return_pct  one_year_return_pct  volatility_pct  best_day_pct  worst_day_pct  trading_days
+  NVDA        21.75        228.52             950.86                21.35           51.91         24.37         -16.97          1254
+  GOOG       141.41        349.52             147.16                42.87           31.98          9.97          -9.63          1254
+  AAPL       143.76        341.27             137.39                37.80           28.03         15.33          -9.25          1254
+  MSFT       302.75        543.45              79.50                 5.72           28.19         15.51          -9.99          1254
+  AMZN       164.99        258.58              56.72                17.50           36.53         15.32         -14.05          1254
